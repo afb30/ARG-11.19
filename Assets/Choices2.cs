@@ -21,9 +21,6 @@ ChoiceMade = 2;
 }
 
     void Update()
-    {
-        if (ChoiceMade >= 1)
-Choice01.SetActive (false);
-Choice02.SetActive (false);
-    }
+ {
+}
 }

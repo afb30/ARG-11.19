@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.argpackingplantwarehouse.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\Oculus\\Unity\\ARG without errors i hope\\ARG-Packing-Plant-Warehouse\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\Oculus\\Github\\ARG\\ARG-11.19\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "ARG-Packing-Plant-Warehouse [Testing]"

@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4635C341-C959-4162-57D3-E47713672600}</ProjectGuid>
+    <ProjectGuid>{1BBE5235-6CAC-05BB-44FA-C1D0BD49F70A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -85,37 +85,37 @@
      <None Include="Assets\EffectExamples\Editor\PackageManagerAssembly\PackageImportList.txt" />
      <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Oculus/Unity/2019.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -303,14 +303,14 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>D:/Oculus/Unity/2019.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="Valve.Newtonsoft.Json">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
- </Reference>
  <Reference Include="PackageManagerAssembly">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+ </Reference>
+ <Reference Include="Valve.Newtonsoft.Json">
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>D:/Oculus/Unity/ARG without errors i hope/ARG-Packing-Plant-Warehouse/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>D:/Oculus/Github/ARG/ARG-11.19/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>D:/Oculus/Unity/2019.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -669,27 +669,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{09616BFD-22AA-23DF-AA23-66B63FA15ED8}</Project>
+      <Project>{6A4A2E3E-A091-6CA8-07CD-7435C217A09D}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Actions.csproj">
-      <Project>{01EBDC32-CCFD-83FA-DAFC-5406E0E46220}</Project>
+      <Project>{1F697344-C8E7-EDAD-433A-629E8BF174AD}</Project>
       <Name>SteamVR_Actions</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Input_Editor.csproj">
-      <Project>{658E9D23-E587-B6A0-34C8-B39A94D1735C}</Project>
+      <Project>{9545A680-A6B3-8481-1217-A927B0B27F48}</Project>
       <Name>SteamVR_Input_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Editor.csproj">
-      <Project>{21ADC8AD-C2E3-9F7A-2CC1-F6C4231EAE99}</Project>
+      <Project>{181FBAED-6351-E69A-FBC7-BF30B5C97DEE}</Project>
       <Name>SteamVR_Editor</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR.csproj">
-      <Project>{F6CF0823-D6DD-6327-00DD-E71776A36A50}</Project>
+      <Project>{59DC88BC-CF21-5FDA-3BE7-8C0BD4C84DB7}</Project>
       <Name>SteamVR</Name>
     </ProjectReference>
     <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
-      <Project>{7484D0CC-E6F0-EFDF-9DAC-F7DBFED89BA9}</Project>
+      <Project>{94B19232-E151-80ED-7223-0AFF8397A0D0}</Project>
       <Name>SteamVR_Windows_EditorHelper</Name>
     </ProjectReference>
   </ItemGroup>

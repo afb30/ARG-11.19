@@ -11,19 +11,17 @@ public GameObject Choice02;
 public int ChoiceMade;
 
 public void ChoiceOption1 () {
-TextBox.GetComponent<Text>().text = "You died.";
+TextBox.GetComponent<Text>().text = "That doesn't seem like the best idea.";
 ChoiceMade = 1;
 }
 
 public void ChoiceOption2 () {
-TextBox.GetComponent<Text>().text = "You survived this scenario! But will you survive the next one?";
+TextBox.GetComponent<Text>().text = "Exactly! You handled this well.";
 ChoiceMade = 2;
 }
 
     void Update()
     {
-        if (ChoiceMade >= 1)
-Choice01.SetActive (false);
-Choice02.SetActive (false);
+
     }
 }
